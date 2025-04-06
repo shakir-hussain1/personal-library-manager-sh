@@ -1,0 +1,37 @@
+[
+    {
+        "title": "A Smarter Way to Learn JavaScript",
+        "author": "Mark Myers", 
+        "publication_year": 2014, 
+        "genre": "Programming", 
+        "read_status": true
+    }, 
+    {
+        "title": "Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming", 
+        "author": "Erric Matthes", 
+        "publication_year": 2015, 
+        "genre": "Programming", 
+        "read_status": false
+    }, 
+    {
+        "title": "HTML & CSS: Design and Build Web Sites", 
+        "author": "Jon Duckett", 
+        "publication_year": 2011, 
+        "genre": "Programming", 
+        "read_status": true
+    }, 
+    {
+        "title": "The Road to Learn React: Your Journey to Master Plain Yet Pragmatic React. Js", 
+        "author": "Robin Weiruch", 
+        "publication_year": 2017, 
+        "genre": "Programming", 
+        "read_status": false
+    }, 
+    {
+        "title": "Cybersecurity Essentials", 
+        "author": "Charles J. Brooks", 
+        "publication_year": 2018, 
+        "genre": "Cybersecurity", 
+        "read_status": false
+    }
+]
