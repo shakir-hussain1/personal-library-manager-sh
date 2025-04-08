@@ -130,11 +130,7 @@ def main():
     library = load_library()
 
     # Display a Lottie animation or image
-    try:
-        st_lottie("https://assets9.lottiefiles.com/packages/lf20_Qwe9bV.json", speed=1, width=500, height=500, key="library")
-    except Exception as e:
-        #st.warning("Failed to load Lottie animation. Displaying placeholder image.")
-        st.image("plms.jpeg", width=500)
+    st.image("plms.jpeg", width=500)
 
     # Menu system
     menu = ["Add a Book", "Remove a Book", "Search for a Book", "Display All Books", "Display Statistics", "Exit"]
